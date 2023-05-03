@@ -2,7 +2,7 @@ Weather App
 This is a weather app that allows users to search for weather information for a given city. The app retrieves data from the OpenWeather API and displays the current weather conditions in words (ex. cloudy, rainy, sunny), along with the current temperature, as well as the maximum and minimum temperature for the day.
 
 How to use
-To use the app, simply enter the name of the city you want to check the weather for into the input field and press the "Enter" button. The app will then retrieve weather data from the OpenWeather API and display the current weather conditions, temperature, and maximum/minimum temperature for the day.
+To use the app, simply enter the name of the city you want to check the weather for into the input field and press the "Enter" button on your device. The app will then retrieve weather data from the OpenWeather API and display the current weather conditions, temperature, and maximum/minimum temperature for the day.
 
 Technologies used
 This app was built using the following technologies:
@@ -26,4 +26,4 @@ Adding support for multiple languages
 Adding support for multiple units of measurement (e.g. Celsius and Fahrenheit)
 Adding error handling for cases where the user enters an invalid city name or the API request fails
 Conclusion
-I hope you find this simple weather app useful and informative! If you have any questions or feedback, feel free to reach out.
+I hope you find this weather app useful and informative! If you have any questions or feedback, feel free to reach out.
