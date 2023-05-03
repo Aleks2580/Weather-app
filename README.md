@@ -5,6 +5,12 @@ This is a weather app that allows users to search for weather information for a 
 ## How to use
 To use the app, simply enter the name of the city you want to check the weather for into the input field and press the "Enter" button on your device. The app will then retrieve weather data from the OpenWeather API and display the current weather conditions, temperature, and maximum/minimum temperature for the day.
 
+## App Demo
+
+Here's a quick demo of how the app works:
+![Alex 2023-05-05 12 31 03 pm](https://user-images.githubusercontent.com/90598699/235834296-32b37c11-99a3-4405-b26e-648abee50243.gif)
+
+
 ## Technologies used
 This app was built using the following technologies:
 
